@@ -70,7 +70,7 @@
 ## 💡 3. 시스템 구성도
 
 ### **S/W 구성도**
-<img width="70%" alt="image" src="https://github.com/user-attachments/assets/2e7bea87-6ae2-4f4d-bf20-331dfe4dab88" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/11e814fc-d624-4f89-87e0-1f8066855886" />
 <br/><br/>
 
 ### **H/W 구성도**
