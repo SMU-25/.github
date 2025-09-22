@@ -79,7 +79,13 @@
 
 ### **엔티티 관계**
 <img width="3380" height="1312" alt="image" src="https://github.com/user-attachments/assets/065e120d-150a-4974-b200-5a9721e058b3" />
-<br/><br/><br/>
+<br/><br/>
+
+### **백엔드 아키텍처**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d628c43e-4944-40c4-8010-4a5b280c2b9c" />
+<br/><br/>
+
+<br/>
 
 ---
 ## 💡 4. 기능 예시 화면
