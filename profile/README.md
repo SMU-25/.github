@@ -74,7 +74,8 @@
 <br/><br/>
 
 ### **H/W 구성도**
-<img width="70%" height="630" alt="image" src="https://github.com/user-attachments/assets/385ba240-89b3-48a0-ba4c-0c861d6c8a28" />
+<img width="555" height="432" alt="image" src="https://github.com/user-attachments/assets/6cc5e3f5-6dc4-406c-9e9f-ba5b52fd89f6" />
+
 <br/><br/>
 
 ### **엔티티 관계**
